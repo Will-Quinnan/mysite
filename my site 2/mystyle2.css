@@ -1,0 +1,39 @@
+html{
+
+background-color: mediumaquamarine;
+
+
+}
+
+
+
+
+body{
+    background-color:lightcyan;
+    font-family: arial;
+    color: lightslategray 
+}
+header{
+
+    background-color: seagreen;
+
+}
+h1{
+    background-color: seagreen;
+    color:aquamarine;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 100px;
+    text-decoration:solid ;
+}
+P{
+    text-align: justify;
+    line-height: 1.5;
+}
+h2{
+    text-align: center;
+    font-size: 70px;
+    background-color: aquamarine;
+    color:seagreen;
+}
